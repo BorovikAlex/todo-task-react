@@ -12,6 +12,16 @@
   display: flex;
 }
 
+.add-item__error {
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.400);
+  padding: 4px 0;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
 .add-item__input {
   margin-right: 10px;
 }
